@@ -42,9 +42,9 @@ To simulate the design and functionality of the grass-cutting robot, the Tinkerc
 
 Attached are the two links:
 https://github.com/aleenasojan0325/Automatic-grass-cutting-robot/issues/2#issue-2730180748
+https://github.com/aleenasojan0325/Automatic-grass-cutting-robot/issues/1#issue-2730161482
 
-
-
+5.Video of the Demo
 
 
 
