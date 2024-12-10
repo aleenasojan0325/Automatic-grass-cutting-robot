@@ -33,4 +33,5 @@ Potential integration with IoT devices for remote monitoring and control.
 The solution addresses the need for safer, more reliable, and environmentally friendly lawn maintenance, making it ideal for both small-scale and large-scale applications.
 
 3.Required components to develop solutions
+The list of components required for the grass-cutting robot is detailed in the provided link, which includes essential hardware like sensors, motors, blades, microcontrollers, and a power supply, among others, for efficient functionality.
 
