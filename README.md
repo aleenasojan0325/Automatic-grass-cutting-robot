@@ -34,4 +34,9 @@ The solution addresses the need for safer, more reliable, and environmentally fr
 
 3.Required components to develop solutions
 The list of components required for the grass-cutting robot is detailed in the provided link, which includes essential hardware like sensors, motors, blades, microcontrollers, and a power supply, among others, for efficient functionality.
+https://github.com/aleenasojan0325/Automatic-grass-cutting-robot/issues/3#issue-2730183737
+
+To simulate the design and functionality of the grass-cutting robot, the Tinkercad platform was used. This software allowed us to virtually model the circuit and verify its operation before physical implementation.
+
+4.Simulated circuit
 
