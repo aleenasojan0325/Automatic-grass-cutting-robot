@@ -40,3 +40,6 @@ To simulate the design and functionality of the grass-cutting robot, the Tinkerc
 
 4.Simulated circuit
 
+https://github.com/aleenasojan0325/Automatic-grass-cutting-robot/issues/2#issue-2730180748
+
+
